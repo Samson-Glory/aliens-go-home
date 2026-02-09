@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback } from "react";
-import "./Canvas.css"; // optional for button styling
+
 
 const Canvas = () => {
   const svgWidth = 800;
